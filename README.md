@@ -1,2 +1,2 @@
-# Git
+# GitPractice
 練習用Repo
