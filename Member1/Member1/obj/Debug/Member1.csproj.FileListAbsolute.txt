@@ -1,0 +1,7 @@
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\bin\Debug\Member1.exe.config
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\bin\Debug\Member1.exe
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\bin\Debug\Member1.pdb
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\obj\Debug\Member1.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\obj\Debug\Member1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\obj\Debug\Member1.exe
+C:\Users\willi\Desktop\Program\Github\member1\GitPractice\Member1\Member1\obj\Debug\Member1.pdb
