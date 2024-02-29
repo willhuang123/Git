@@ -11,6 +11,7 @@ namespace Member1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git!");
+            Console.WriteLine("member2 modified.");
             Console.ReadKey();
         }
     }
